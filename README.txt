@@ -1,3 +1,7 @@
-Reposiório destinado ao acesso de <strong>Portfólio de Projetos de Data Science</strong>.
+Nessa página eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados através de projetos com dados públicos.
 
-Para acessar, <a href="https://fgandrade.github.io/portfolio_projetos/" clique aqui </a> 
+Você vai encontrar também minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados.
+
+Sinta-se à vontade para acessar o link no final da página.
+
+https://fgandrade.github.io/portfolio_projetos/
