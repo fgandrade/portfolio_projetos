@@ -1,7 +1,7 @@
-Nessa página eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados através de projetos com dados públicos.
+Nessa página eu demonstro minhas habilidades de desenvolver sites utilizando as principais tecnologias de desenvolvimento Web.
 
-Você vai encontrar também minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados.
+Você vai encontrar também minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo desenvolvimento Web.
 
 Sinta-se à vontade para acessar o link no final da página.
 
-https://fgandrade.github.io/portfolio_projetos/
+http://fgandrade-dev.com/
