@@ -1,7 +1,6 @@
-Nessa página eu demonstro minhas habilidades de desenvolver sites utilizando as principais tecnologias de desenvolvimento Web.
+In this project I will show my abilities of web development using the main technologies.
 
-Você vai encontrar também minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo desenvolvimento Web.
+In addition you will find my professional experiences, abilities, tools and concepts of web development.
 
-Sinta-se à vontade para acessar o link no final da página.
-
+You can access and visit my website.
 http://fgandrade-dev.com/
